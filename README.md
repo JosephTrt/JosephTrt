@@ -2,7 +2,7 @@
 I'm a software developer specializing in Python 🐍
 - 👨‍🔬 I work as a Data Scientist.
 - 🤖 I implement solutions based on Machine Learning models.
-- 🖥️ I work as a web developer with Python and React.
+- 🖥️ I work as a web developer with Python.
 - 💼 I am a programming instructor.
 <br>
 
@@ -14,7 +14,6 @@ I'm a software developer specializing in Python 🐍
   <a href="https://www.anaconda.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;</a>
   <a href="https://www.djangoproject.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;</a>
   <a href="https://flask.palletsprojects.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;</a>
-  <a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;</a>
   <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="MumPy"  alt="MumPy" width="40" height="40"/>&nbsp;</a>
   <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;</a>
   <a href="https://scikit-learn.org/stable/"><img src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png" title="ScikitLearn" **alt="ScikitLearn" width="40" height="40"/></a>
