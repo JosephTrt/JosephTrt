@@ -2,7 +2,7 @@
 I'm a software developer specializing in Python 🐍
 - 👨‍🔬 I work as a Data Scientist.
 - 🤖 I implement solutions based on Machine Learning models.
-- 🖥️ I work as a backend developer.
+- 🖥️ I work as a web developer with Python.
 - 💼 I am a programming instructor.
 <br>
 
@@ -30,5 +30,4 @@ I'm a software developer specializing in Python 🐍
 <div>
   <a href="https://www.linkedin.com/in/josephtrt"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;</a>
   <a href="mailto:trepatj@gmail.com"><img src="https://www.svgrepo.com/show/92674/email.svg" title="Email"  alt="Email" width="40" height="40"/>&nbsp;</a>
-  <a href="https://www.kaggle.com/jostrepat"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle"  alt="Kaggle" width="40" height="40"/>&nbsp;</a>
 </div>
