@@ -29,6 +29,6 @@ I'm a software developer specializing in Python 🐍
 
 ## 📫 Contact me:
 <div>
-  <a href="https://www.linkedin.com/in/josephtrt"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;</a>
+  <a href="https://www.linkedin.com/in/josephtrt"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIN"  alt="LinkedIN" width="40" height="40"/>&nbsp;</a>
   <a href="mailto:trepatj@gmail.com"><img src="https://www.svgrepo.com/show/92674/email.svg" title="Email"  alt="Email" width="40" height="40"/>&nbsp;</a>
 </div>
