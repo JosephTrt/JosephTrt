@@ -14,7 +14,8 @@ I'm a software developer specializing in Python 🐍
   <a href="https://www.anaconda.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;</a>
   <a href="https://www.djangoproject.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;</a>
   <a href="https://flask.palletsprojects.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;</a>
-  <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="MumPy"  alt="MumPy" width="40" height="40"/>&nbsp;</a>
+  <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;</a>
+  <a href="https://powerbi.microsoft.com/es-es/"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI"  alt="PowerBI" width="40" height="40"/>&nbsp;</a>
   <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;</a>
   <a href="https://scikit-learn.org/stable/"><img src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png" title="ScikitLearn" **alt="ScikitLearn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;</a>
